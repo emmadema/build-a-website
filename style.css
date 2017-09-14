@@ -1,0 +1,88 @@
+body {
+	
+	margin: 0 auto;
+	width: auto;
+	height: 2000px;
+	background-color: #A9A9A9; /*light grey*/
+	font-family: 'Raleway', sans-serif;
+}
+h1{
+	color: white;
+}
+.aboutMe {
+	background: #FFE4E1; /*misty rose*/
+	color: grey;
+	opacity: 0.8;
+	text-align: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	width: 100%;
+	clear: both;
+}
+
+li{
+	display: inline;
+	margin: 0 auto;
+}
+
+.name {
+	text-align: left;
+	background: #A9A9A9;
+	margin-top: 10px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 10px;
+    font-size: 45px;
+}
+
+.intro {
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	color: white;
+	font-size: 24px;
+	font-weight: bolder;
+}
+
+.description {
+	margin: 0 100px 0 100px;
+	color: white;
+	text-align: center;
+	font-size: 24px;
+
+}
+
+.image {
+	width: 800px;
+    display: block;
+    margin: 0 0 0 100px;
+    float: left;
+    clear: both;
+ }
+
+ button {
+	text-align: center;
+ 	height: 100px;
+ 	line-height: 100px;
+ 	color: grey;
+ 	width: 200px;
+    display: block;
+    position: relative;
+    font-size: 24px;
+    vertical-align: center;
+    background: #FFE4E1;
+    opacity: 0.8;
+   	margin: 0 600px 0 600px;
+
+ }
+
+ 
+
+
+
+
+
+
+

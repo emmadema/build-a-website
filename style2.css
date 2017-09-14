@@ -1,0 +1,71 @@
+
+body{
+	background-color: #696969;
+	font-family: 'Raleway', sans-serif;
+}
+li{
+	display: inline;
+	margin: 10px;
+	
+}
+.aboutMe{
+	margin: 0 auto;
+	background: #FFE4E1;
+	width: 100%;
+	height: 20px;
+
+}
+
+h1 {
+	color: #A9A9A9;
+	margin: 10px 30px 10px 30px;
+	display: block;
+	clear: both;
+}
+
+h2 {
+	margin: 10px 50px 10px 50px;
+	display: block;
+	color: #FFE4E1;
+
+}
+
+.descriptionOne {
+	margin: 10px 100px 10px 100px;
+	color: white;
+}
+
+.imageOne {
+	margin: 10px 100px 10px 100px;
+}
+
+.descriptionTwo {
+	margin: 10px 100px 10px 100px;
+	color: white;
+}
+
+.imageTwo {
+	margin: 10px 100px 10px 100px;
+}
+
+.descriptionThree {
+	margin: 10px 100px 10px 100px;
+	color: white;
+}
+
+.imageThree {
+	margin: 10px 100px 10px 100px;
+}
+
+.edu {
+	margin: 30px;
+	display: block;
+	color: #A9A9A9;
+}
+
+ul {
+	margin: 30px 100px 30px 100px;
+	list-style-type: circle;
+	color: white;
+
+}
